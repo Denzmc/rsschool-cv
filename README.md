@@ -1,0 +1,1 @@
+https://github.com/Denzmc/rsschool-cv/blob/gh-pages/cv.md
